@@ -1,7 +1,9 @@
 {
+  "engines": {
+    "node": ">=16.20.1"
+  },
   "name": "nodejs_user_management",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,9 +21,11 @@
     "express-session": "^1.17.3",
     "method-override": "^3.0.0",
     "mongodb": "^6.2.0",
-    "mongoose": "^7.0.0"
+    "mongoose": "^7.0.0",
+    "node": "^21.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.21"
-  }
+  },
+  "description": ""
 }

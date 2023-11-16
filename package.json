@@ -22,7 +22,8 @@
     "method-override": "^3.0.0",
     "mongodb": "^6.2.0",
     "mongoose": "^7.0.0",
-    "node": "^21.1.0"
+    "node": "^21.1.0",
+    "punycode": "^2.3.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.21"

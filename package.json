@@ -1,7 +1,4 @@
 {
-  "engines": {
-    "node": ">=16.20.1"
-  },
   "name": "nodejs_user_management",
   "version": "1.0.0",
   "main": "index.js",
@@ -25,7 +22,7 @@
     "node": "^21.1.0"
   },
   "devDependencies": {
-    "nodemon": "^2.0.21"
+    "nodemon": "^2.0.22"
   },
   "description": ""
 }
